@@ -32,6 +32,7 @@
 </div>
 
 ---
+Grupo de Telegram soolo para OSINTH --} https://t.me/AldaKaerOSINTHV1
 
 ## 🛡️ What is OSINTH?
 
