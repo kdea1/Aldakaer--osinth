@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- █████╗ ██╗  ██████╗ █████╗ ██╗  ██╗ █████╗ ███████╗██████╗
-██╔══██╗██║  ██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██╔══██╗
-███████║██║  ██║  ██║███████║█████╔╝ ███████║█████╗  ██████╔╝
-██╔══██║██║  ██║  ██║██╔══██║██╔═██╗ ██╔══██║██╔══╝  ██╔══██╗
-██║  ██║██║  ██████╔╝██║  ██║██║  ██╗██║  ██║███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+ █████╗ ██╗     ██████╗  █████╗ ██╗  ██╗ █████╗ ███████╗██████╗ 
+██╔══██╗██║     ██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██╔══██╗
+███████║██║     ██║  ██║███████║█████╔╝ ███████║█████╗  ██████╔╝
+██╔══██║██║     ██║  ██║██╔══██║██╔═██╗ ██╔══██║██╔══╝  ██╔══██╗
+██║  ██║███████╗██████╔╝██║  ██║██║  ██╗██║  ██║███████╗██║  ██║
+╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
  ██████╗ ███████╗██╗███╗   ██╗████████╗██╗  ██╗
 ██╔═══██╗██╔════╝██║████╗  ██║╚══██╔══╝██║  ██║
@@ -21,8 +21,6 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.136-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.57-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![License](https://img.shields.io/badge/License-MIT-34c759?style=for-the-badge)](LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/ernestolopez/osinth/ci.yml?style=for-the-badge&label=CI)](../../actions)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](Dockerfile)
 
 *Professional-grade OSINT & threat intelligence platform for SOC teams, security researchers, and analysts.*
@@ -33,6 +31,49 @@
 
 ---
 Grupo de Telegram soolo para OSINTH --} https://t.me/AldaKaerOSINTHV1
+
+## 🧰 Tech Stack
+
+**Languages**
+
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Go](https://img.shields.io/badge/Go-recon%20tools-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
+[![Pascal](https://img.shields.io/badge/Pascal%20Script-installer-red?style=flat-square)]()
+[![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)]()
+
+**Backend / Core**
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.136-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.57-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-D71F00?style=flat-square)](https://www.sqlalchemy.org)
+[![Typer](https://img.shields.io/badge/Typer-CLI-black?style=flat-square)](https://typer.tiangolo.com)
+[![APScheduler](https://img.shields.io/badge/APScheduler-jobs-informational?style=flat-square)]()
+
+**IA / Machine Learning**
+
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-classifiers-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![Ollama](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square)](https://ollama.ai)
+
+**Frontend / Visualización**
+
+[![Plotly](https://img.shields.io/badge/Plotly-charts-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
+[![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-embedded%20UI-E34F26?style=flat-square&logo=html5&logoColor=white)]()
+
+**Seguridad / Datos**
+
+[![Cryptography](https://img.shields.io/badge/Cryptography-licensing-lightgrey?style=flat-square&logo=letsencrypt&logoColor=white)]()
+[![Pillow](https://img.shields.io/badge/Pillow-image%20processing-3776AB?style=flat-square)]()
+
+**Infraestructura / Empaquetado**
+
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white)](Dockerfile)
+[![PyInstaller](https://img.shields.io/badge/PyInstaller-.exe%20build-blueviolet?style=flat-square)]()
+[![Inno Setup](https://img.shields.io/badge/Inno%20Setup-Windows%20installer-orange?style=flat-square)]()
+[![PyArmor](https://img.shields.io/badge/PyArmor-licensing%20obfuscated-critical?style=flat-square)]()
+[![Nginx](https://img.shields.io/badge/Nginx-reverse%20proxy-009639?style=flat-square&logo=nginx&logoColor=white)]()
+[![systemd](https://img.shields.io/badge/systemd-services-DE382B?style=flat-square)]()
+
+---
 
 ## 🛡️ What is OSINTH?
 
