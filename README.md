@@ -17,6 +17,10 @@
 ```
 
 **Open Source Intelligence & Threat Hunter Framework**
+<img width="1910" height="808" alt="osinth23" src="https://github.com/user-attachments/assets/4b1e8c90-f3d7-4051-89b7-6242609af6e3" />
+<img width="1912" height="735" alt="osinth22" src="https://github.com/user-attachments/assets/5eda551e-51e3-4db1-a369-989dce612204" />
+<img width="1914" height="810" alt="osinth25" src="https://github.com/user-attachments/assets/9292f614-41bb-4ae7-a154-a1bd5676d75b" />
+<img width="1914" height="807" alt="osinth24" src="https://github.com/user-attachments/assets/8d9fa233-058a-4a2e-9fc5-1e550c07a771" />
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.136-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
